@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ReboundAI.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "-i \"Example.csv\""
+    }
+  }
+}
