@@ -1,5 +1,5 @@
 # ReboundAI
-Measuring economic mood at scale using Azure Cognitive Services. To learn more about the project, visit [RebountTriCities.Com](http://reboundtricities.com/).
+Measuring economic mood at scale using Azure Cognitive Services. To learn more about the project, visit [ReboundTriCities.Com](http://reboundtricities.com/).
 
 ## What Rebound?
 Since the start of the Washington state COVID-19 lockdowns in March, our local business community leaders having be polling local business owners as a means of keeping the pulse during this crisis. This tool is intended to accelerate the process of analyzing data returned by survey tools (like SurveyMonkey, Google Forms, etc).
